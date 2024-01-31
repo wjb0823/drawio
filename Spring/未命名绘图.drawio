@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T14:14:11.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.0.2" etag="C_ekPSYFGtc1_JFfPSNx" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T14:25:16.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="NIGMvaGKjrGQR6nPU5AK" version="23.0.2" type="github">
   <diagram name="第 1 页" id="neKxh6z_9__IzbFEOgkC">
-    <mxGraphModel>
+    <mxGraphModel dx="2261" dy="1907" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-akV54SEEkOJsXPi6OF7-1" value="«interface»&lt;br&gt;&lt;b&gt;AnnotationConfigRegistry&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="58" width="216" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-akV54SEEkOJsXPi6OF7-2" value="AnnotationConfigApplicationContext" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="264" y="458" width="242" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="-akV54SEEkOJsXPi6OF7-3" value="GenericApplicationContext" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="264" y="322" width="238" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="-akV54SEEkOJsXPi6OF7-4" value="AbstractApplicationContext" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="258" y="206" width="238" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="-akV54SEEkOJsXPi6OF7-5" value="«interface»&lt;br&gt;&lt;b&gt;BeanDefinitionRegistry&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="522" y="68" width="216" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-akV54SEEkOJsXPi6OF7-6" value="DefaultResourceLoader" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="350" width="238" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="-akV54SEEkOJsXPi6OF7-7" value="«interface»&lt;br&gt;&lt;b&gt;AnnotationConfigRegistry&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="152" y="60" width="216" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-akV54SEEkOJsXPi6OF7-8" value="«interface»&lt;br&gt;&lt;b&gt;AnnotationConfigRegistry&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-64" y="4" width="216" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-akV54SEEkOJsXPi6OF7-9" value="«interface»&lt;br&gt;&lt;b&gt;AnnotationConfigRegistry&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="-2" width="216" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-akV54SEEkOJsXPi6OF7-10" value="«interface»&lt;br&gt;&lt;b&gt;AnnotationConfigRegistry&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-436" y="-80" width="216" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-akV54SEEkOJsXPi6OF7-11" value="«interface»&lt;br&gt;&lt;b&gt;AnnotationConfigRegistry&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="744" y="-66" width="216" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-akV54SEEkOJsXPi6OF7-12" value="«interface»&lt;br&gt;&lt;b&gt;AnnotationConfigRegistry&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="508" y="-60" width="216" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-akV54SEEkOJsXPi6OF7-13" value="«interface»&lt;br&gt;&lt;b&gt;BeanFactory&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="132" y="-216" width="216" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-akV54SEEkOJsXPi6OF7-14" value="«interface»&lt;br&gt;&lt;b&gt;AnnotationConfigRegistry&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-206" y="-72" width="216" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-akV54SEEkOJsXPi6OF7-15" value="«interface»&lt;br&gt;&lt;b&gt;AnnotationConfigRegistry&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-64" width="216" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-akV54SEEkOJsXPi6OF7-16" value="«interface»&lt;br&gt;&lt;b&gt;AnnotationConfigRegistry&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="968" y="-64" width="216" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
